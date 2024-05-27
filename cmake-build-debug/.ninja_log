@@ -1,0 +1,4 @@
+# ninja log v5
+5	271	7385244588371535	build.ninja	ff86ae50de6568aa
+5	106	7385244589813669	CMakeFiles/Moon_Lander.dir/main.c.obj	3e67277b6743c290
+107	257	7385244591264906	Moon_Lander.exe	6cf042c4a2a14d32
